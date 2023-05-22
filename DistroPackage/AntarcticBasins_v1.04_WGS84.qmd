@@ -1,5 +1,5 @@
 <!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
-<qgis version="3.22.9-Bia?owie?a">
+<qgis version="3.28.1-Firenze">
   <identifier></identifier>
   <parentidentifier></parentidentifier>
   <language></language>
@@ -19,9 +19,9 @@
   <fees></fees>
   <encoding></encoding>
   <crs>
-    <spatialrefsys>
+    <spatialrefsys nativeFormat="Wkt">
       <wkt></wkt>
-      <proj4></proj4>
+      <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
       <srsid>0</srsid>
       <srid>0</srid>
       <authid></authid>
@@ -32,7 +32,7 @@
     </spatialrefsys>
   </crs>
   <extent>
-    <spatial maxy="0" maxz="0" dimensions="2" maxx="0" minz="0" miny="0" minx="0" crs=""/>
+    <spatial maxz="0" maxy="0" minz="0" maxx="0" crs="" miny="0" minx="0" dimensions="2"/>
     <temporal>
       <period>
         <start></start>
