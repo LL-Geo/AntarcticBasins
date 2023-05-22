@@ -1,0 +1,66 @@
+{
+  "creators": [
+    {
+      "affiliation": "School of Earth Sciences, The University of Western Australia, Australia",
+      "name": "Aitken, Alan",
+      "orcid": "0000-0002-6375-2504"
+    },
+    {
+      "affiliation": "School of Earth Sciences, The University of Western Australia, Australia",
+      "name": "Li, Lu",
+      "orcid": "0000-0001-6165-2828"
+    },
+    {
+      "affiliation": "School of Biosciences, Geography and Physics, Swansea University, Wales, UK",
+      "name": "Kulessa, Bernd",
+      "orcid": "0000-0002-4830-4949"
+    },
+    {
+      "affiliation": "Department of Geophysics, Stanford University, Stanford, California, USA",
+      "name": "Schroeder, Dustin",
+      "orcid": "0000-0003-1916-3929"
+    },
+    {
+      "affiliation": "British Antarctic Survey, Cambridgeshire, UK",
+      "name": "Jordan, Tom",
+      "orcid": "0000-0003-2780-1986"
+    },
+    {
+      "affiliation": "The Institute of Marine and Antarctic Science, The University of Tasmania, Hobart, Tasmania, Australia",
+      "name": "Whittaker, Joanne",
+	  "orcid": "0000-0002-3170-3935"
+    },
+    {
+      "affiliation": "College of Earth and Mineral Sciences, Pennsylvania State University, Pennsylvania, USA",
+      "name": "Anandakrishnan, Sridhar",
+	  "orcid": "0000-0001-8229-2593"
+    },
+    {
+      "affiliation": "Department of Geophysics, Stanford University, Stanford, California, USA",
+      "name": "Dawson, Eliza",
+	  "orcid": "0000-0002-2662-3201"
+    },
+    {
+      "affiliation": "Department of Earth & Planetary Sciences, Washington University, St. Louis, Missouri, USA",
+      "name": "Wiens, Douglas",
+      "orcid": "0000-0002-5169-4386"
+    },
+    {
+      "affiliation": "Glaciology, Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research, Bremerhaven, Germany",
+      "name": "Eisen, Olaf",
+      "orcid": "0000-0002-6380-962X"
+    },
+    {
+      "affiliation": "Grantham Institute and Department of Earth Science and Engineering, Imperial College London, London, UK",
+      "name": "Siegert, Martin",
+      "orcid": "0000-0002-0090-4806"
+    }
+  ],
+  "keywords": [
+    "Antarctica",
+    "Sedimentary Basin",
+  ],
+  "license": {
+    "id": "MIT"
+  }
+}
