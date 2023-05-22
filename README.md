@@ -20,6 +20,6 @@ to see how you can help and give feedback.
 
 The current version of AntarcticBasins is **v1.04**
 
-The version **v1.04** supplyment to the following publication:
+The version **v1.04** supplement to the following publication:
 
 Aitken, A. R., Li, L., Kulessa, B., Schroeder, D. M., Jordan, T. A., Whittaker, J. M., ... & Siegert, M. J. (2023). Antarctica's sedimentary basins and their influence on ice sheet dynamics. Review of Geophysics 
