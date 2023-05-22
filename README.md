@@ -1,4 +1,7 @@
 # GIS Package for Antarcitca's Sedimentary Basins
+[![DOI](https://zenodo.org/badge/643523791.svg)](https://zenodo.org/badge/latestdoi/643523791)
+
+
 
 **AntarcticBasins** is an open repository for hosting the Antarctica's Sedimentary Basins GIS package. It includes the sedimentary basin distribution, sedimentary basin type, and sedimentary basin age. The goal of this project is to build a community-derived knowledge of Antarctica's Sedimentary Basins. 
 
@@ -18,8 +21,8 @@ to see how you can help and give feedback.
 
 ## Project status
 
-The current version of AntarcticBasins is **v1.04**
+The current version of AntarcticBasins is **v1.04** [![DOI](https://zenodo.org/badge/643523791.svg)](https://zenodo.org/badge/latestdoi/643523791)
 
-The version **v1.04** supplement to the following publication:
+The version **v1.04** [![DOI](https://zenodo.org/badge/643523791.svg)](https://zenodo.org/badge/latestdoi/643523791) supplement to the following publication:
 
 Aitken, A. R., Li, L., Kulessa, B., Schroeder, D. M., Jordan, T. A., Whittaker, J. M., ... & Siegert, M. J. (2023). Antarctica's sedimentary basins and their influence on ice sheet dynamics. Review of Geophysics 
