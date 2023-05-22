@@ -2,14 +2,14 @@
 
 **AntBasins** is an open repository for hosting the Antarctica's Sedimentary Basins GIS package. It includes the sedimentary basin distribution, sedimentary basin type, and sedimentary basin age. The goal of this project is to build a community-derived knowledge of Antarctica's Sedimentary Basins. 
 
-[👉View Map](https://geojson.io/#id=github:LL-Geo/AntBasins/blob/main/DistroPackage/AntarcticBasins_v1.04.geojson&map=2.72/-85.05/-6.33)
+[👉View Map](https://geojson.io/#id=github:LL-Geo/AntarcticBasins/blob/main/DistroPackage/AntarcticBasins_v1.04.geojson&map=2.72/-85.05/-6.33)
 
 ![Map](./Static/BedType.png)
 
 ## Contributing to Sedimentary Basins Mapping
 Understanding of Antarctica's Sedimentary Basins will likely change with the increase of data coverage and resolution. Therefore, we aim to use community effort to keep updating the GIS package.
 
-📝 Please make edit to the GIS package and make a [Pull Requets](https://github.com/LL-Geo/AntBasins/pulls)
+📝 Please make edit to the GIS package and make a [Pull Requets](https://github.com/LL-Geo/AntarcticBasins/pulls)
 to submit your data.
 
 Please read our
